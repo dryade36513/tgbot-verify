@@ -57,7 +57,7 @@
 ### 1. 複製專案
 
 ```bash
-git clone https://github.com/PastKing/tgbot-verify.git
+git clone https://github.com/dryade36513/tgbot-verify.git
 cd tgbot-verify
 ```
 
